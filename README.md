@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome to my GitHub 👋
 
-<!--
-**nabdulmajid/nabdulmajid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📓 My Projects:
+- Childhood reading study database. A MySQL database I created as my final project submission for the "Introduction to Data and SQL" course by Code First Girls. This is a database that is designed to hold survey and other data from research about reading behaviours in children. I was recognised as a highly commended candidate on the course for my efforts in this project.
+- Spreadsheet analysis project. The final project I submitted for the "Introduction to Programming with Python" course by Code First Girls. Python is used to perform basic analysis on a spreadsheet.
 
-Here are some ideas to get you started:
+💬 My Languages:
+- Python
+- SQL
+- Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💫 Reach Out About:
+- Networking and/ or mentoring opportunities!
+- Questions about my projects, courses, or healthcare information technology (HIT)/ digital health!
